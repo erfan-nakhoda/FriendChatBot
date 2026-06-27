@@ -1,4 +1,4 @@
-this project is friend chat bot which as it's obvious, it connects two person
+this project is friend chat bot which as it's obvious, it connects two people
 And they can start chatting and see eachother's profile 
 Bot features:
   1. Set profile
